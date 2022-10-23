@@ -11,6 +11,8 @@
 		FD44B7F52903E7A500ECEEBA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD44B7F42903E7A500ECEEBA /* ContentView.swift */; };
 		FD44B7F72903E7A600ECEEBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD44B7F62903E7A600ECEEBA /* Assets.xcassets */; };
 		FD44B7FA2903E7A600ECEEBA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD44B7F92903E7A600ECEEBA /* Preview Assets.xcassets */; };
+		FD44B8052905A18A00ECEEBA /* SlidersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD44B8042905A18A00ECEEBA /* SlidersView.swift */; };
+		FD44B8072905A84D00ECEEBA /* ColorBackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD44B8062905A84D00ECEEBA /* ColorBackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		FD44B7F42903E7A500ECEEBA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FD44B7F62903E7A600ECEEBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD44B7F92903E7A600ECEEBA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FD44B8042905A18A00ECEEBA /* SlidersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidersView.swift; sourceTree = "<group>"; };
+		FD44B8062905A84D00ECEEBA /* ColorBackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				FD44B7F22903E7A500ECEEBA /* ColorSliferSwiftUIApp.swift */,
 				FD44B7F42903E7A500ECEEBA /* ContentView.swift */,
+				FD44B8042905A18A00ECEEBA /* SlidersView.swift */,
+				FD44B8062905A84D00ECEEBA /* ColorBackView.swift */,
 				FD44B7F62903E7A600ECEEBA /* Assets.xcassets */,
 				FD44B7F82903E7A600ECEEBA /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD44B7F52903E7A500ECEEBA /* ContentView.swift in Sources */,
+				FD44B8072905A84D00ECEEBA /* ColorBackView.swift in Sources */,
+				FD44B8052905A18A00ECEEBA /* SlidersView.swift in Sources */,
 				FD44B7F32903E7A500ECEEBA /* ColorSliferSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
